@@ -31,7 +31,7 @@ The project necessitated creative solutions, proficiency in various NX commands,
 
 ---
 
-**Project by:** Hakancan Ozturk, the contribution of the group members are not disclosed in this repo, yet the parts without my contributions were left out.
+**Project by:** Hakancan Ozturk, the contribution of the group members are not disclosed in this repo, yet the parts without my contributions were left out.  
 **License:** [See here](./LICENSE)  
 **Project Report:** [MECH203 Project Report.docx](./MECH203%20Project%20Report.docx)  
 **Presentation:** [Mech 203 - Final Project Group 4_ Reciprocating Compressor.pptx](./Mech%20203%20-%20Final%20Project%20Group%204_%20Reciprocating%20Compressor.pptx)  
